@@ -13,6 +13,8 @@
 
 // Package v1 provides bindings to the Prometheus HTTP API v1:
 // http://prometheus.io/docs/querying/api/
+// This package is still EXPERIMENTAL, breaking changes here
+// will _not_ trigger a new major release.
 package v1
 
 import (

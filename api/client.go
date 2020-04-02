@@ -12,6 +12,8 @@
 // limitations under the License.
 
 // Package api provides clients for the HTTP APIs.
+// This package is still EXPERIMENTAL, breaking changes here
+// will _not_ trigger a new major release.
 package api
 
 import (
